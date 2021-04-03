@@ -701,16 +701,6 @@ body {
   }
 }
 
-@media (max-width: 620px) {
-  .product__wrapper {
-    margin: 0 0px 80px 0px;
-  }
-
-  .product__img {
-    max-width: 230px;
-  }
-}
-
 @media screen and (max-width: 600px) {
   .tabs li.active a {
     border-bottom: 0px solid #aaa;
