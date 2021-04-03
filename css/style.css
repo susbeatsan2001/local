@@ -519,6 +519,12 @@ body {
   display: flex;
 }
 
+.product__color {
+  font-size: 13px;
+  margin-bottom: 5px;
+  color: grey;
+}
+
 .product__prise-real {
   margin: 0 7px 31px 0;
 }
