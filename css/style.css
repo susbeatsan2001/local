@@ -622,7 +622,7 @@ body {
   margin: 0px 90px 20px 93px;
 }
 
-.banner__link2 {
+.banner__link.black {
   margin: 33px 213px 125px 93px;
   margin-top: 33px;
   color: #000;
@@ -657,6 +657,9 @@ body {
 }
 
 .black__link {
+  color: #000;
+  white-space: nowrap;
+  border-bottom: 1px solid #000;
   margin: 33px 0px 125px 0px;
 }
 
@@ -863,11 +866,11 @@ body {
     height: 85vw;
   }
 
-  .banner__link2 {
+  .banner__link.black {
     margin: 30px 90px 20px 30px;
   }
 
-  .banner__link2:hover {
+  .banner__link.black:hover {
     text-decoration: underline;
   }
 
@@ -877,6 +880,10 @@ body {
 
   .black__link {
     margin: 33px 0px 125px 0px;
+  }
+
+  .black__link:hover {
+    text-decoration: underline;
   }
 }
 
