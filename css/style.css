@@ -723,7 +723,7 @@ body {
 
 .design__link {
   color: #fff;
-  padding: 0 20px;
+  padding: 0 20px 5px;
   font-size: 15px;
   border-bottom: 2px solid #fff;
   -webkit-transition: all .5s;
@@ -732,7 +732,7 @@ body {
 }
 
 .design__link:hover {
-  padding: 0 0;
+  padding: 0 0 5px;
   -webkit-transition: all .5s;
   -o-transition: all .5s;
   transition: all .5s;
